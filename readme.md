@@ -378,7 +378,6 @@
 | [Negative Space](https://negativespace.co/)| High-Resolution Free Stock Photos |
 | [SkitterPhoto](https://skitterphoto.com/)| Free high-resolution photography |
 | [PicoGraphy](https://picography.co/)| Gorgeous, High-Resolution, Free Photos |
-| [Wunder Stock](https://wunderstock.com/)| Stunningly amazing free photos |
 | [PxHere](https://pxhere.com/)| Free Images & Free stock photos - PxHere |
 | [Piqsels](https://piqsels.com/)| Royalty Free Stock Photos |
 | [FoodiesFeed](https://www.foodiesfeed.com/)| Food photo stock |
