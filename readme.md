@@ -33,6 +33,8 @@
 - [Design Inspiration](#design-inspiration)
 - [Image Compression](#image-compression)
 - [Chrome Extensions](#chrome-extensions)
+- [Firefox Extensions](#firefox-extensions)
+- [AI Graphic Design Tools](#ai-graphic-design-tools)
 - [Others](#others)
 
 ## UI Graphics
@@ -139,6 +141,7 @@
 | [Typespiration](https://typespiration.com/)| Inspirational font combinations and color palettes |
 | [Fontsource](https://fontsource.org/) | Self-host Open Source fonts in neatly bundled NPM packages. |
 | [FontBolt](https://www.fontbolt.com/) | Discover and generate your favorite fonts from pop culture. |
+| [Fontshare](https://www.fontshare.com/) | Fontshare is a free fonts service from the Indian Type Foundry (ITF), making quality fonts accessible to all. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -286,6 +289,7 @@
 | [IconsDb](https://www.iconsdb.com/) | Free Custom Icons |
 | [Emoji Guide](https://emojiguide.org/) | The collection of 3300 emojis with their HTML codes for easy use. |
 | [Unicorn Icons](https://unicornicons.com) | 100+ customizable playful animated icons. Available in JSON and SVG format. |
+| [Sargam Icons](https://sargamicons.com/) | A collection of 275+ open-source icons available for Figma, SVGs, and React. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -306,7 +310,6 @@
 | [Logo Maker](https://logomakr.com/)| Create custom logos |
 | [Free Logo Maker](https://www.namecheap.com/logo-maker/)| Fast, All-in-One Logo Generator |
 | [LOGOwine](https://www.logo.wine/)| Brand Logos Free Download in SVG Vector & PNG File Format |
-| [Namecheap Logo Maker](https://www.namecheap.com/logo-maker/)| Create and download custom Logos for free |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -533,6 +536,7 @@
 | [Start Bootstrap](https://startbootstrap.com/)| Bootstrap starter themes |
 | [Zerotheme](https://www.zerotheme.com/)| HTML5, Bootstrap, Prestashop templates |
 | [HTML5xCSS3](https://www.html5xcss3.com/)| Collection of wonderful templates in different categories |
+| [ThemeWagon](https://themewagon.com/theme-price/free/)| Collection of HTML5 Bootstrap templates from different categories |
 | [Colorlib](https://colorlib.com/wp/templates/)| Almost any category of theme you can think of |
 | [Free CSS](https://www.free-css.com/free-css-templates)| Huge collection of free templates |
 | [Hubspot](https://www.hubspot.com/resources)| Templates, infographics, banners and much more|
@@ -553,6 +557,7 @@
 | [Sneat Bootstrap 5 HTML Admin Template](https://github.com/themeselection/sneat-html-admin-template-free)| Open-source & Easy to us Bootstrap 5 HTML Admin Template with Elegant Design & Unique Layout.|
 | [HTMLrev](https://htmlrev.com) | Free beautiful HTML5 templates and landing pages |
 | [Horizon UI](https://horizon-ui.com/) | Trendiest open source Admin Template for React |
+| [KeenThemes](https://keenthemes.com/) | Free and Pro Html/Css3, Bootstrap5, Vue, React, Laravel templates |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -625,6 +630,8 @@
 | [clay.css](https://github.com/codeAdrian/clay.css) | Extensible and configurable micro CSS util class and SASS mixin for adding claymorphism styles to your components. |
 | [BeerCSS](https://www.beercss.com) | Build Material Design interfaces in record time, without stress for devs 🍻. The first CSS framework that implements Material Design 3. |
 | [daisyUI](https://daisyui.com/) | Tons of components use with Tailwind CSS but write fewer class names. |
+| [UnoCSS](https://unocss.dev/) | UnoCSS is the instant atomic CSS engine, that is designed to be flexible and extensible. The core is un-opinionated, and all the CSS utilities are provided via presets. |
+| [Neptune CSS](neptunecss.org) | Neptune CSS is a lightweight CSS framework. Use it to develop your websites faster. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -743,6 +750,8 @@
 | [Chartist](http://gionkunz.github.io/chartist-js/index.html)|Simple responsive charts |
 | [Vizzu](https://lib.vizzuhq.com/0.3.0/)| Vizzu - a free, open-source Javascript library for building animated charts, data stories, and interactive explorers. |
 | [AntV](https://charts.ant.design/en)|Ant Design Charts, free JS Charts library for dynamic data with excellent documentation |
+| [Nivo](https://nivo.rocks/)|Nivo provides supercharged React components to easily build dataviz apps, it's built on top of d3. Also comes with server side rendering ability and fully declarative charts.|
+| [Echarts](https://echarts.apache.org/en/index.html)|An Open Source JavaScript Visualization Library with declarative syntax for Rapid Construction of Web-based Visualization |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -806,6 +815,13 @@
 |[Kitwind](https://kitwind.io/products/kometa/components) | Fully responsive UI kits, built with Tailwind CSS. |
 |[DevUI](https://www.devui.io/) | Free and Open-Source UI Components for Maximum Productivity. |
 |[Tail-Kit](https://www.tailwind-kit.com/) | Tail-kit gives you access to over 250 free components and free templates, based on Tailwind CSS 3.0. |
+|[Float UI](https://floatui.com/) | Free and open-source UI components and website templates using Tailwind CSS |
+|[Konsta UI](https://konstaui.com/) | Pixel perfect mobile UI components built with Tailwind CSS |
+|[React Native Gifted Chat](https://github.com/FaridSafi/react-native-gifted-chat#readme) | A chat UI component that offers a ready-to-use chat interface with features like message bubbles, input toolbar, and more. |
+|[Wind UI](https://wind-ui.com/) | Expertly made, responsive, accessible components in React and HTML ready to be used on your website or app. |
+|[Sonner](https://sonner.emilkowal.ski/) | An opinionated toast component for React. |
+|[Pines](https://devdojo.com/pines) | Pines is a library of animations, sliders, tooltips, accordions, modals, and more! It's a set of UI elements that can be copy and pasted into any Alpine and Tailwind projects. |
+|[Kuma UI](https://www.kuma-ui.com/) | With Kuma UI's headless, zero-runtime UI components, build top-performing websites effortlessly, while enjoying the best developer experience. Say hello to the future of CSS-in-JS. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -935,6 +951,7 @@
 | [Vuestic](https://vuestic.dev/) | Free and Open Source UI Library for Vue 3 🤘. |
 | [Vue Final Modal](https://vue-final-modal.org/) | Vue Final Modal is a tiny, renderless, mobile-friendly, feature-rich modal component for Vue.js. |
 | [Vuetensils](https://vuetensils.stegosource.com/) | Vuetensils is a lightweight component library for Vue 2.x that brings some of most common UI features, but only the bare minimum styles to avoid adding any extra bloat. You can work on the branding, and don't have to worry about the accessibility. |
+| [NuxtLabs UI](https://ui.nuxtlabs.com/getting-started) | Fully styled and customizable components for Nuxt. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -980,6 +997,9 @@
 | [Attractions](https://illright.github.io/attractions/)| A pretty cool UI kit for Svelte |
 | [Svelteit](https://docs.svelteit.dev)| A minimalistic UI/UX component library for Svelte and Sapper projects |
 | [Carbon Components Svelte](https://carbon-components-svelte.onrender.com/)| A component library that implements the Carbon Design System, an open source design system by IBM.|
+| [Radix Svelte](https://www.radix-svelte.com/)| This is a port of Radix UI for Svelte.|
+| [shadcn-svelte](https://www.shadcn-svelte.com/)| shadcn-svelte is an unofficial community-led Svelte port of shadcn/ui.|
+| [Skeleton](https://www.skeleton.dev/)| Skeleton is an open source UI toolkit built with Svelte + Tailwind that allows you to create reactive web interfaces using Svelte + Tailwind CSS.|
 
 
 <div align="right">
@@ -1217,6 +1237,7 @@
 | [CSS box-shadow](https://getcssscan.com/css-box-shadow-examples)| 91 Beautiful CSS box-shadow examples. |
 | [Super Designer](https://superdesigner.co)| Design tools that give you super powers. |
 | [Landings](https://landings.dev)| Find the best landing pages for your design inspiration based on your preference. |
+| [Page Collective](https://pagecollective.com/)| Page Collective is part of a network of design inspiration websites. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1300,9 +1321,10 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## Firefox Extensions
+
 >Useful Firefox extensions for Designers and Web-Developers.
 
-## Firefox Extensions
 | Extension                                                                                                           | Description |
 |---------------------------------------------------------------------------------------------------------------------| ----------- |
 | [WhatFont](https://addons.mozilla.org/en-US/firefox/addon/zjm-whatfont/)                                            | Identify fonts on web pages |
@@ -1329,6 +1351,19 @@
 | [React Developer Tool](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)                              | Inspect React component hierarchy |
 | [Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)                                            | Identify technologies used on websites |
 | [Fake Filler](https://addons.mozilla.org/en-US/firefox/addon/fake-filler/)                                          | Fill out web forms with dummy data |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## AI Graphic Design Tools
+
+>AI tools that offer free service to generate design
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                       |
+| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [Leonardo.Ai](https://leonardo.ai/) | Leonardo AI is an AI-powered design tool that can help you create designs based on reference images. |
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -1394,6 +1429,8 @@
 | [Apifox](https://apifox.cn) | Apifox = Postman + Swagger + Mock + JMeter |
 | [A Modern CSS Reset](https://piccalil.li/blog/a-modern-css-reset/) | Resets the css styling of all HTML elements to a consistent baseline across browsers. |
 | [Clipperly](https://clipperly.com/) | All-in-one free online file service, convert, edit and optimize your files.  |
+| [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) | Test and optimize page load speed |
+| [Code Beautify](https://codebeautify.org/) | Free Online Tools like Code Beautifiers, Code Formatters, Editors, Viewers, Minifier, Validators, Converters for Developers|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
